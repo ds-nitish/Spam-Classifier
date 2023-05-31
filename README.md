@@ -1,4 +1,3 @@
-# Spam-Classifier
 # Spam Classifier
 
 This repository contains code for a spam classifier that uses three different models: Artificial Neural Network (ANN), SimpleRNN, and Naive Bayes. The models are trained on labeled email data to classify incoming messages as either spam or not spam.
